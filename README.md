@@ -1,5 +1,4 @@
-### Hi there 👋
-
+I'm a graduate student in UChicago's Computational Analysis and Public Policy program. I have a passion for data science and experience with previous experience in economic reaserch. 
 <!--
 **JPMartinezClaeys/JPMartinezClaeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
