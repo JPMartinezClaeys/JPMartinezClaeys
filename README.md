@@ -1,4 +1,4 @@
-I'm a graduate student in UChicago's Computational Analysis and Public Policy program. I have a passion for data science and experience with previous experience in economic reaserch. 
+I'm a graduate student in UChicago's Computational Analysis and Public Policy program. I have a passion for data science and experience previous experience in economic reaserch for in antitrust and competition policy. 
 <!--
 **JPMartinezClaeys/JPMartinezClaeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
