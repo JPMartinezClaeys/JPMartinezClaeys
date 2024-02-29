@@ -1,6 +1,6 @@
 **Hi, thanks for visiting my GitHub.**
 
-I'm a graduate student in UChicago's Computational Analysis and Public Policy program ("CAPP"). I have a passion for data science, particularly using machine learning to solve problems on the public policy space.My policy interest lie mostly on competition policy, energy and sustainability, and urban policy, topics I'm most passionate about contributing to.
+I'm a graduate student in UChicago's Computational Analysis and Public Policy program ("CAPP"). I have a passion for data science, particularly using machine learning to solve problems on the public policy space. My policy interest lie mostly on competition policy, energy and sustainability, and urban policy, topics I'm most passionate about contributing to.
 
 Before CAPP I worked for 4 years for the Chilean Antitrust Agency working as a research economist for the merger division. During that time I carried out economic analysis combining theoretical and quantitative tools to asses the possible competitive effects of a proposed merger.
 
@@ -11,8 +11,13 @@ During my time at CAPP I've worked at the following projects:
 - Webscrapping articles from the politics secion from US news media from 2016-2023 (repository is expected to be public soon, available upon request)
 
 Many repositories from school programming assignments are private for academic integrity and intellectual property purposes. Code can be shared with prospective employers upon request.
-
-- 
+- Recursive Treemap Algorithm Implementation
+- Record Linkage Algorithms
+- Polling Precinct Simulation using M/M/N Queues
+- Implement Dial's Algorithm
+- Image segmentation using graph theory
+- Find maximum flow in a graph using CVXPY
+- Implement RSA cryptotesystem
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jp-martinez-claeys/)
 <!--
