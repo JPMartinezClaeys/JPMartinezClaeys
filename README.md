@@ -4,7 +4,7 @@ I'm a graduate student in UChicago's Computational Analysis and Public Policy pr
 
 Before CAPP I worked for 4 years for the Chilean Antitrust Agency working as a research economist for the merger division. During that time I carried out economic analysis combining theoretical and quantitative tools to asses the possible competitive effects of a proposed merger.
 
-During my time at CAPP I've worked at the following projects:
+**During my time at CAPP I've worked at the following projects:**
 
 - [Computer Vision project on predicting Pneumonia from X-Ray Image](https://github.com/JPMartinezClaeys/30254-pneumoniacs)
 - [Unnderstanding Black Lives Matters protests and their impact in relationship to media coverage and changes to municipal budgets.](https://github.com/JPMartinezClaeys/30122-project-protest)
