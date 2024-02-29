@@ -1,4 +1,12 @@
-I'm a graduate student in UChicago's Computational Analysis and Public Policy program. I have a passion for data science and experience previous experience in economic reaserch for in antitrust and competition policy. 
+**Hi, thanks for visiting my GitHub.**
+
+I'm a graduate student in UChicago's Computational Analysis and Public Policy program ("CAPP"). I have a passion for data science, particularly using machine learning to solve 
+
+Before CAPP I worked for 4 years for the Chilean Antitrust Agency working as a research economist for the merger division. During that time I need to carry out economic analysis combining theoretical and quantitative tools to asses the possible competitive effects of a proposed merger.
+
+My policy interest lie mostly on competition policy, energy and sustainability, and urban policy, topics I'm most passionate about contributing to.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jp-martinez-claeys/)
 <!--
 **JPMartinezClaeys/JPMartinezClaeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
