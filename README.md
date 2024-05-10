@@ -1,6 +1,6 @@
 **Hi, thanks for visiting my GitHub.**
 
-I'm a graduate student in UChicago's Computational Analysis and Public Policy program ("CAPP"). I have a passion for data science, particularly using machine learning to solve problems on the public policy space. My policy interest lie mostly on competition policy, energy and sustainability, and urban policy, topics I'm most passionate about to contribute to.
+Hi, I'm JP Martinez (He/Him), I'm a graduate student in [UChicago's Computational Analysis and Public Policy program ("CAPP")](https://capp.uchicago.edu). I have a passion for data science, particularly using machine learning to solve problems on the public policy space. My policy interest lie mostly on competition policy, energy and sustainability, and urban policy, topics I'm most passionate about to contribute to.
 
 Before CAPP I worked for 4 years for the Chilean Antitrust Agency working as a research economist for the merger division. During that time I carried out economic analysis combining theoretical and quantitative tools to asses the possible competitive effects of a proposed merger.
 
