@@ -4,7 +4,7 @@ I'm JP Martinez (He/Him), I'm a graduate student in [UChicago's Computational An
 
 Before CAPP I worked for 4 years for the Chilean Antitrust Agency as a research economist for the merger division. During that time I carried out economic analysis combining theoretical and quantitative tools to asses the possible competitive effects of a proposed merger.
 
-**During my time at CAPP I've worked at the following projects:**
+**During my time at CAPP I've worked in the following projects:**
 
 - [Computer Vision project on predicting Pneumonia from X-Ray Image](https://github.com/JPMartinezClaeys/30254-pneumoniacs)
 - [Understanding Black Lives Matters protests and their impact in relationship to media coverage and changes to municipal budgets.](https://github.com/JPMartinezClaeys/30122-project-protest)
