@@ -1,8 +1,8 @@
 **Hi, thanks for visiting my GitHub.**
 
-I'm JP Martinez (He/Him), I'm a graduate student in [UChicago's Computational Analysis and Public Policy program ("CAPP")](https://capp.uchicago.edu). I have a passion for data science, particularly using machine learning to solve problems on the public policy space. My policy interest lie mostly on competition policy, climate and energy, and transportation policy.
+I'm JP Martinez (He/Him), I'm a recent graduate from the program [Computational Analysis and Public Policy program ("CAPP")](https://capp.uchicago.edu) at The university of Chicago. I have a passion for data science, particularly using machine learning to solve problems on the public policy space. My policy interest lie mostly on competition policy, transportation policy and climate and energy.
 
-Before CAPP I worked for 4 years for the Chilean Antitrust Agency as a research economist for the merger division. During that time I carried out economic analysis combining theoretical and quantitative tools to asses the possible competitive effects of a proposed merger.
+Before CAPP I worked for 4 years for the Chilean Antitrust Agency as a research economist for the merger division. During that time I carried out economic analysis combining theoretical and quantitative tools to asses the possible competitive effects of proposed mergers.
 
 **During my time at CAPP I've worked in the following projects:**
 
@@ -21,7 +21,7 @@ Many repositories from school programming assignments are private for academic i
 - Find maximum flow in a graph using CVXPY
 - Implement RSA cryptotesystem
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jp-martinez-claeys/)
+Feel free to connect with me in [LinkedIn](https://www.linkedin.com/in/jp-martinez-claeys/)
 <!--
 **JPMartinezClaeys/JPMartinezClaeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
