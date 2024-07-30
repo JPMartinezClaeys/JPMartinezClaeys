@@ -6,11 +6,12 @@ Before CAPP I worked for 4 years for the Chilean Antitrust Agency as a research 
 
 **During my time at CAPP I've worked in the following projects:**
 
+- [Transit planning tool aimed to revitalize public interest and participation in transit, driving increased ridership and creating more efficient networks that meet urban community needs](https://github.com/uchicago-capp-30320/RouteRangers) 
 - [Computer Vision project on predicting Pneumonia from X-Ray Image](https://github.com/JPMartinezClaeys/30254-pneumoniacs)
 - [Understanding Black Lives Matters protests and their impact in relationship to media coverage and changes to municipal budgets.](https://github.com/JPMartinezClaeys/30122-project-protest)
 - Webscrapping articles from the politics secion from US news media from 2016-2023 (repository is expected to be public soon, available upon request)
 - [Topic modelling and sentiment analysis on news articles from news media politics section](https://github.com/meganhmoore/LingoQuartet)
-- [Transit planning tool aimed to revitalize public interest and participation in transit, driving increased ridership and creating more efficient networks that meet urban community needs](https://github.com/uchicago-capp-30320/RouteRangers) 
+
 
 Many repositories from school programming assignments are private for academic integrity and intellectual property purposes. Code can be shared with prospective employers upon request.
 - Recursive Treemap Algorithm Implementation
