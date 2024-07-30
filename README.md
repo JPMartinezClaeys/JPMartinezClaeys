@@ -4,7 +4,7 @@ I'm JP Martinez (He/Him), I'm a recent graduate from the program [Computational 
 
 Before CAPP I worked for 4 years for the Chilean Antitrust Agency as a research economist for the merger division. During that time I carried out economic analysis combining theoretical and quantitative tools to asses the possible competitive effects of proposed mergers.
 
-**During my time at CAPP I've worked in the following projects:**
+**During my time in CAPP I worked in the following projects:**
 
 - [Transit planning tool aimed to revitalize public interest and participation in transit, driving increased ridership and creating more efficient networks that meet urban community needs](https://github.com/uchicago-capp-30320/RouteRangers) 
 - [Computer Vision project on predicting Pneumonia from X-Ray Image](https://github.com/JPMartinezClaeys/30254-pneumoniacs)
