@@ -1,6 +1,6 @@
 **Hi, thanks for visiting my GitHub.**
 
-I'm JP Martinez (He/Him), I'm a Research Associate at [Institute for Policy Integrity ("Policy Integrity") at New York University](https://policyintegrity.org) and recent graduate from the program [Computational Analysis and Public Policy program ("CAPP")](https://capp.uchicago.edu) at The University of Chicago. I have a passion for data science, particularly using machine learning to solve problems on the public policy space. My policy interest lie mostly on competition policy, transportation policy and climate and energy.
+I'm JP Martinez (He/Him), I'm a Research Associate at [Institute for Policy Integrity ("Policy Integrity")](https://policyintegrity.org) at New York University, and recent graduate from the program [Computational Analysis and Public Policy program ("CAPP")](https://capp.uchicago.edu) at The University of Chicago. I have a passion for data science, particularly using machine learning to solve problems on the public policy space. My policy interest lie mostly on competition policy, transportation policy and climate and energy.
 
 Before CAPP I worked for 4 years for the Chilean Antitrust Agency as a research economist for the merger division. During that time I carried out economic analysis combining theoretical and quantitative tools to asses the possible competitive effects of proposed mergers.
 
